@@ -4,3 +4,4 @@ console.log("3333");
 console.log("develop");
 console.log("develop2", develop2);
 console.log("feauture", feauture);
+console.log("feauture2", feauture);
